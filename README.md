@@ -1,2 +1,0 @@
-# ericsprojects
-con todos proyectos
